@@ -6,4 +6,4 @@ This repo contains an assortment of code snippets and demos that I wrote for my 
 
 * `Ising-model`: Julia code to sample the [Ising model](https://en.wikipedia.org/wiki/Ising_model) using the classical [Metropolis-Hastings](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm), written for the Statistical Mechanics Workshop at PKU.
 
-* `continuation`: a Julia package that implements the [numerical continuation](https://en.wikipedia.org/wiki/Numerical_continuation) method for curve tracing in a high dimensional space.
+* `continuation`: a Julia notebook that implements the [numerical continuation](https://en.wikipedia.org/wiki/Numerical_continuation) method for curve tracing in a high dimensional space, along with simple bifurcation detection.
